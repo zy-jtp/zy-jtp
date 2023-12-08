@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/zy-jtp/zy-jtp/blob/main/devcard.svg" width="400" alt="Andy Gonzalez's Dev Card"/></a>
+
 <!--
 **zy-jtp/zy-jtp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
